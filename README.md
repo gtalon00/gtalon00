@@ -1,4 +1,4 @@
-### Howdy! My name is Talon. 👋
+
 
 <!--
 **gtalon00/gtalon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
